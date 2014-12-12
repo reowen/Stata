@@ -1,0 +1,4 @@
+Stata-school
+============
+
+Stata scripts
